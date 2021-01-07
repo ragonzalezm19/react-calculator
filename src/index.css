@@ -1,10 +1,15 @@
+@font-face {
+  font-family: SFProText;
+  src: url(./fonts/SF-Pro-Text-Light.otf);
+}
+
 html {
   height: 100%;
 }
 
 body {
   margin: 0;
-  font-family: 'SF Pro Text';
+  font-family: SFProText;
   height: 100%;
 }
 
