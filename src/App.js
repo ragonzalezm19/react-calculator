@@ -29,9 +29,7 @@ function App() {
           <Key className="dark">3</Key>
           <Key className="yellow">+</Key>
 
-          <Key className="dark" double={true}>
-            0
-          </Key>
+          <Key className="dark double">0</Key>
           <Key className="dark">,</Key>
           <Key className="yellow">=</Key>
         </Keyboard>
